@@ -152,7 +152,7 @@ gantt
 
 | 👤 Name | 🎓 Student ID | 🏫 Group |
 |---------|:-------------:|:--------:|
-| **Azizxon Abduraxmanov** | 2020390246 | E40B |
+| **Azizxon Abduraxmanov** | 202390246 | E40B |
 | **Mark Park** | 202390208 | E40B |
 | **Shiyakhmetov Ramis** | 202390223 | E40B |
 | **Nodirbek Rustamov** | 202390234 | E40B |
